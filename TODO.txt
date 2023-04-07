@@ -1,0 +1,42 @@
+- ball with ball collision
+- special weapons (ray, bomb, one hit ball, ray barier, set mine)
+- V collect weapons
+- own ball shield that regenerate
+
+- player animation
+- level titles (nachrichten einblenden)
+- zusätzliches leben nach punkten
+- V hindernisse mit textur
+
+
+Spiel
+- Währung für upgrades
+- Upgrades
+  - extra Lebel 
+  - extra Waffen
+- Waffen
+  - Feuerball (Mach mehr Schaden)
+  - Laser (Geht durch alle Durch)
+  - Explosion (Vernichtet alle) Atombombe
+  - Mine wird gesetzt
+  - Bombe wird geworfen
+  - 
+
+Icons die gebraucht werden
+
+- sprites für bullet
+  - normall
+  - bombe
+  - feurball animiert als sprite sheet
+
+Items
+  - speed Shot
+  - bombe
+  - verlangsamen
+  - feuerball
+  - mine
+
+Boss Gegener
+
+
+

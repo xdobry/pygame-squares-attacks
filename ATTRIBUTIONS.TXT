@@ -1,0 +1,17 @@
+concept, sprite and testing by jan
+
+== sounds & sfx ==
+
+artisticdude - https://opengameart.org/content/fire-evil-spell
+subspaceAudio - https://opengameart.org/content/512-sound-effects-8-bit-style
+Interface Sounds (1.0) - https://www.kenney.nl/assets/interface-sounds
+Sci-Fi Sounds (1.0) - https://www.kenney.nl/assets/sci-fi-sounds
+
+== graphics ==
+
+Chris Hamons (maintainer) (Submitted by MedicineStorm) - https://opengameart.org/content/dungeon-crawl-32x32-tiles
+font-pack Zingot Games http://www.zingot.com https://opengameart.org/content/bitmap-font-pack 
+
+== music ==
+
+intro music by sonfaranto - https://soundcloud.com/ryszard-zrybnicki
