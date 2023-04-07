@@ -1,8 +1,11 @@
 ## SQUARES ATTACKS ##
 
-2D retro action game programmed in python pygame
+2D retro action pixel art game programmed in python programming language using pygame library
+https://www.pygame.org
 
-## Installation ##
+![screenshot](cover.png)
+
+## Python Installation ##
 
 Install python programming language https://www.python.org/
 After it
@@ -22,7 +25,7 @@ https://www.gnu.org/licenses/lgpl-3.0
 
 For attributes see ATTRIBUTIONS.TXT
 
-## making destribution
+## Making Distribution
 
 Use pyinstall
 
