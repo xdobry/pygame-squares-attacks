@@ -18,7 +18,7 @@ python start.py
 
 ## License
 
-The programmed is free to use.
+The programm is free to use.
 The code is licensed after GPL
 https://www.gnu.org/licenses/lgpl-3.0
 
