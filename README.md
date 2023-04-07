@@ -23,7 +23,7 @@ The code is licensed after GPL
 https://www.gnu.org/licenses/lgpl-3.0
 
 
-For asset attributions see [ATTRIBUTIONS.TXT]
+For asset attributions see [ATTRIBUTIONS.TXT](ATTRIBUTIONS.TXT)
 
 ## Making Distribution
 
